@@ -1,4 +1,4 @@
-# Awesome Networking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Networking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An awesome collection of courses, books, tutorials, softwares and other resources about Networking.
 
