@@ -1,6 +1,6 @@
 ## Project Yggdrasil
                                                           **Welcome to Project Yggdrasil! **                                       
-![](https://st4.depositphotos.com/8159296/20979/v/450/depositphotos_209797060-stock-illustration-druidic-yggdrasil-tree-night-silhouette.jpg)
+![](https://static.wixstatic.com/media/a27d24_331e73537a2c48c088c9b9e381fb2b2c~mv2.jpg/v1/fit/w_600,h_1000,al_c,q_80/file.png)
 
 Yggdrasil, a mythological norse tree, a bridge that connects the Nine Realms. 
 Although not mythologicallyh correct, I like to think of it as the great Tree Of Knowledge
