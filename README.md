@@ -15,11 +15,11 @@ I've enjoyed slowly amassing this collection of books over time. A giant portion
 
 # [Penetration Testing Resources](https://github.com/Hack-with-Github/Awesome-Hacking)
 
-**A collection of lists for pentesters, NetSec & security researchers.**
+**A collection of lists for Pen-testers, NetSec & Security researchers.**
 
 Your [contributions](contributing.md) are always welcome !
 
-## A List of Helpful Repositories
+## A List of Repositories
 
 Repository | Description
 ---- | ----
