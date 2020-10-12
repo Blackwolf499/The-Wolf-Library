@@ -13,7 +13,7 @@ COVID-19 had been a great motivator for this project, as It allowed the perfect 
 
 ![Awesome Hacking](home.jpg)
 
-# [Penetration Testing Resources](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
+# [Penetration Testing Resources](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](
 
 **A collection of lists for pentesters, NetSec & security researchers.**
 
