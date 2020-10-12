@@ -1,4 +1,4 @@
-## Project Yggdrasil
+## [Project Yggdrasil]
                                                           **Welcome to Project Yggdrasil! **                                       
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Ash_Yggdrasil_by_Friedrich_Wilhelm_Heine.jpg)
 
@@ -11,9 +11,9 @@ This little project had been in planning stages for quite sometime, I finally fo
 It's been an idea in the works for a while.
 I've enjoyed slowly amassing this collection of books over time. A giant portion of which still remains unsorted.  
 
-![Awesome Hacking](home.jpg)
+![Pretty Looking Forest](home.jpg)
 
-# [Penetration Testing Resources](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](
+# [Penetration Testing Resources](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 **A collection of lists for pentesters, NetSec & security researchers.**
 
