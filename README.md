@@ -17,8 +17,6 @@ I've enjoyed slowly amassing this collection of books over time. A giant portion
 
 **A collection of lists for Pen-testers, NetSec & Security researchers.**
 
-Your [contributions](contributing.md) are always welcome !
-
 ## A List of Repositories
 
 Repository | Description
