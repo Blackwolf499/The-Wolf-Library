@@ -17,8 +17,6 @@ COVID-19 had been a great motivator for this project, as It allowed the perfect 
 
 **A collection of lists for Pen-testers, NetSec & Security researchers.**
 
-Your [contributions](contributing.md) are always welcome !
-
 ## A List of Repositories
 
 Repository | Description
